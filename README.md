@@ -2,7 +2,7 @@
 
 Master Python and pass the PCEP-30-01 and the PCAP-31-02 Exams and become an industry ready python developer!
 
-<img title="JRP The Complete Python Developer Certification Course New Banner" alt="JRP The Complete Python Developer Certification Course New Banner" src="">
+<img title="JRP The Complete Python Developer Certification Course New Banner" alt="JRP The Complete Python Developer Certification Course New Banner" src="https://raw.githubusercontent.com/JobReadyProgrammer/PythonCourse/refs/heads/master/JRP%20The%20Complete%20Python%20Developer%20Certification%20Course%20New%20Banner.jpg">
 
 This GitHub Repository will include the Source Code for the [The Complete Python Developer Certification Course](https://www.udemy.com/course/the-complete-python-developer-certification-course/)
 
